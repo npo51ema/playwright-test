@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.textField {
+  width: 100%;
+  padding: 20px 16px;
+  border: none;
+  outline: none;
+  background: #f4f4f4;
+}
